@@ -1,0 +1,23 @@
+
+.container{
+    border: 1px solid aquamarine;
+    display: flex;
+    margin: 10px 0;
+    padding: 0 10px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.done{
+    background-color: bisque;
+    text-decoration: line-through;
+}
+
+.textContainer{
+    display: flex;
+}
+
+.btnContainer > button{
+    margin-right: 10px ;
+}
